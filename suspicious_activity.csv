@@ -1,0 +1,3 @@
+User_ID,Login_Hour,Files_Accessed,Emails_Sent,USB_Devices_Used,Anomaly
+3,22,50,60,3,Suspicious
+3,23,55,65,4,Suspicious
