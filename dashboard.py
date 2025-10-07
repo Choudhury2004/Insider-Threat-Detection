@@ -160,4 +160,5 @@ if uploaded_file:
         
 else:
     st.warning("Please upload a CSV file to begin analysis.")
-    st.image("Insider_Threat.png", caption="System ready for analysis.", use_container_width=True)
+
+    st.image("Insider_Threat.png", caption="System ready for analysis.", use_container_width='content')
